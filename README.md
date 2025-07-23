@@ -1,7 +1,7 @@
 
 # Cataract and Sclera Spot Detection Using OpenCV
 
-This project presents a lightweight, interpretable tool for early detection of cataracts and scleral abnormalities using classical image processing with OpenCV. Avoiding AI, it ensures fast, transparent processing ideal for resource-limited settings. High-resolution eye images are analyzed through contrast enhancement, grayscale conversion, edge detection, and morphological filtering. Iris regions are detected via Hough Circle Transform and Canny edges, while cataracts are segmented and quantified by coverage over the iris. Scleral health is monitored by tracking dark spots over time. Results are visualized in a simple graphical interface, supporting field-level screening without the need for specialized equipment.
+This project presents a lightweight, interpretable tool for early detection of cataracts and scleral abnormalities using classical image processing with OpenCV. Avoiding AI, it ensures transparent processing ideal for resource-limited settings. High-resolution eye images are analyzed through contrast enhancement, grayscale conversion, edge detection, and morphological filtering. Iris regions are detected via Hough Circle Transform and Canny edges, while cataracts are segmented and quantified by coverage over the iris. Scleral health is monitored by tracking dark spots over time. Results are visualized in a simple graphical interface, supporting field-level screening without the need for specialized equipment.
 
 
 ## 🛠️ Tools and Technologies
